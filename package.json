@@ -1,0 +1,21 @@
+{
+  "name": "discord-wheel-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with wheel of fortune system",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "wheel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "gifencoder": "^2.0.1"
+  }
+}

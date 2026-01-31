@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Config files (contains sensitive tokens)
+config.json
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+npm-debug.log*
+
+# Optional: Uncomment if you don't want to track data files
+# data/users.json
+# data/wheels.json
